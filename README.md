@@ -4,7 +4,6 @@
 
 - Arnaldo González — Usuario GitHub: `@arnalytox`
 
-> Si el proyecto se entrega en pareja, agregar aquí el nombre y usuario de GitHub del segundo integrante.
 
 ## Descripción del problema
 
